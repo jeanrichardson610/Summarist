@@ -1,3 +1,32 @@
+📚 Summarist
+
+Summarist is an AI-powered web application designed to provide concise and insightful book summaries. Utilizing OpenAI's GPT-3, it offers users quick overviews of books, helping them decide whether to delve deeper into a particular title.
+
+🚀 Features
+
+AI-Generated Summaries: Leverages GPT-3 to produce human-like book summaries.
+
+Personalized Recommendations: Curated book suggestions tailored to user preferences.
+
+User Authentication: Secure login and registration options, including Google OAuth.
+
+Responsive Design: Optimized for both desktop and mobile devices.
+
+Interactive UI: Engaging user interface with smooth transitions and animations.
+
+🛠️ Tech Stack
+
+Frontend: Next.js, React, Tailwind CSS
+
+Backend: Node.js, Express
+
+Authentication: Firebase Authentication
+
+AI Integration: OpenAI GPT-3
+
+State Management: Redux Toolkit
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
