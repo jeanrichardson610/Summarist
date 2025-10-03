@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "summarist-home-page",
+			"path": "../../../../Code/summarist-home-page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "summarist-home-page"
+	}
+}
