@@ -14,6 +14,8 @@ Responsive Design: Optimized for both desktop and mobile devices.
 
 Interactive UI: Engaging user interface with smooth transitions and animations.
 
+Logging Out Screen: Added a logging out screen/overlay so that way it truly feels like the user logged out.
+
 🛠️ Tech Stack
 
 Frontend: Next.js, React, Tailwind CSS
